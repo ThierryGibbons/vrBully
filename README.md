@@ -21,8 +21,8 @@ ___
 - GTA style wasted screen
 - Hit VR player with a BUS!
 
-**Download:**
+**Download:**  
 Downloads will be availiable either here, some future discord server and potentialy on steam
 
-**Phone app:**
+**Phone app:**  
 Initialy may have to be a web app considering I don't know anything about launching a phone app or how the beta process works for testing apps on phones.
