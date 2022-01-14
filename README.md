@@ -1,6 +1,7 @@
 # VR Bully
 A platform for bullying your friends who are playing VR in a social setting.
 
+___
 
 ### Why I want to create this
 **I'm just someone that likes showing VR to their friends.**
