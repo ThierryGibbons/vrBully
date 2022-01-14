@@ -8,6 +8,8 @@ A platform for bullying your friends who are playing VR in a social setting.
 - 💯 I'm about to start studying again when student life kicks in.
 - 🏆 2022 Goals: Contribute in Open Source VR projects.
 
+___
+
 ### Initial Beta Goals
 
 **Features:**
